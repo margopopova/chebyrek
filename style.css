@@ -1,0 +1,431 @@
+﻿* {
+    margin: 2px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.form {
+    width: 100%;
+}
+
+.burger {
+    display: none;
+}
+
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    font-family: "Arial";
+    font-size: 18px;
+    overflow-x: hidden;
+}
+
+
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.admin-content,
+.auth-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    
+}
+    .admin-content input,
+    .auth-content input {
+        padding: 15px;
+        margin-bottom: 10px;
+   
+        border: 1px solid red;
+       
+    }
+
+#Button2,
+#Button1 {
+    width: 100%;
+}
+
+#GridView1 {
+    min-width: 360px;
+}
+
+    #GridView1 th,
+    #GridView1 td {
+        padding: 10px;
+        text-align: center;
+    }
+
+header {
+    padding: 15px 0;
+    background: black;
+    color: white;
+    position: relative;
+}
+
+.main-menu ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.main-menu li {
+    margin-left: 25px;
+}
+
+.main-menu a {
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+    .main-menu a:hover {
+        outline: 1px solid white;
+    }
+
+
+.page-title {
+    font-family: "segoe script";
+    text-align: center;
+    font-size: 48px;
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    height: 100vh;
+    width: 100%;
+}
+
+.why {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.items {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-title {
+    color: silver;
+    font-weight: 300;
+    text-align: center;
+}
+
+.item-text {
+    font-family: "segoe script";
+    text-align: center;
+}
+
+.scale {
+    transition: 1s;
+}
+
+    .scale:hover {
+        transform: scale(1.2);
+    }
+
+header nav {
+    float: right;
+    display: flex;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+.silver {
+    color: silver;
+}
+
+
+.main {
+    font: 300 25px 'segoe ui', sans-serif;
+    background: black;
+    padding: 50px;
+}
+
+
+.animate-grow {
+    display: flex;
+    justify-content: center;
+    animation: animate_grow 2s infinite;
+    font-size: 18px;
+}
+
+    .animate-grow:hover {
+        animation: none;
+    }
+
+@keyframes animate_grow {
+    0% {
+        transform: scale3d(1, 1, 1);
+    }
+
+    50% {
+        transform: scale3d(1.05, 1.05, 1.05);
+    }
+
+    100% {
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#Button4,
+#button-1 {
+    background: none;
+    color: white;
+    outline: 1px solid red;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+
+.button a {
+    color: white;
+}
+
+#Button4 {
+    margin-top: 0;
+}
+
+    #button-1:hover {
+        background: #232322;
+    }
+
+.menu-head {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+    .menu-head img {
+        width: 40%;
+    }
+
+.list {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .list ul {
+        text-align: center;
+        list-style: none;
+        margin-top: 25px;
+    }
+
+    .list li {
+        margin-bottom: 15px;
+    }
+
+.top-btn {
+    position: absolute;
+    display: inline-flex;
+    margin-left: auto;
+    padding: 10px 15px;
+    border: 1px solid red;
+    color: white;
+    z-index: 3;
+    left: calc(50% - 21px);
+}
+
+    .top-btn:hover {
+        color: white;
+    }
+
+
+.mail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: calc(100vh - 100px);
+    align-items: center;
+}
+
+.mail-items {
+    width: 60%;
+}
+
+    .mail-items .form-control {
+        border: 1px solid red;
+        background: none;
+        padding: 25px 15px;
+        font-size: 18px;
+        color: white;
+        font-weight: 300;
+    }
+
+.mail-title {
+    font-weight: 200;
+    color: silver;
+    text-transform: uppercase;
+}
+
+.btn-form {
+    width: 100%;
+    background: none;
+    border: 1px solid red;
+    padding: 25px;
+}
+
+    .btn-form:hover {
+        background: #232322;
+        color: white;
+    }
+.menu-table {
+    margin-top: 25px;
+}
+
+
+.menu-table td {
+    border: 1px solid red;
+    padding: 10px;
+}
+
+
+@media (max-width: 768px) {
+
+
+
+    .container {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    .main-menu {
+        display: flex;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        top: 50px;
+        right: 0;
+        width: 100%;
+        min-height: 300px;
+        z-index: 3;
+        background: black;
+    }
+
+    #Button4 {
+        margin-top: 15px;
+    }
+
+    .main-menu ul {
+        flex-direction: column;
+        padding: 0;
+    }
+
+        .main-menu li {
+            text-align: center;
+        }
+
+        .main-menu a {
+            font-size: 26px;
+        }
+
+    .why {
+        margin-top: 25px;
+        min-height: auto;
+    }
+
+    .main-content {
+        justify-content: flex-start;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 50px;
+        height: auto;
+    }
+
+        .main-content img {
+            width: 80%;
+            height: auto;
+        }
+
+    .top-btn {
+        display: none;
+    }
+
+    .page-title {
+        font-size: 36px;
+    }
+
+    .items {
+        flex-direction: column;
+    }
+
+
+    .menu-head {
+        flex-direction: column;
+    }
+
+        .menu-head img {
+            width: 75%;
+        }
+
+    .list {
+        margin-top: 50px;
+    }
+
+        .list ul {
+            padding: 0;
+        }
+
+    .burger {
+        margin-left: auto;
+        margin-right: 15px;
+        display: flex;
+        width: 40px;
+        height: 40px;
+    }
+
+        .burger img {
+            width: 100%;
+            height: auto;
+        }
+
+    .menuHide {
+        display: none;
+    }
+
+    .admin-content, .auth-content {
+        height: auto;
+    }
+
+}

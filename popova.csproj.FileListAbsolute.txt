@@ -1,0 +1,177 @@
+C:\Users\serydzi\Desktop\popova\bin\popova.dll.config
+C:\Users\serydzi\Desktop\popova\bin\popova.dll
+C:\Users\serydzi\Desktop\popova\bin\popova.pdb
+C:\Users\serydzi\Desktop\popova\bin\roslyn\csc.exe
+C:\Users\serydzi\Desktop\popova\bin\roslyn\csc.exe.config
+C:\Users\serydzi\Desktop\popova\bin\roslyn\csc.rsp
+C:\Users\serydzi\Desktop\popova\bin\roslyn\csi.exe
+C:\Users\serydzi\Desktop\popova\bin\roslyn\csi.exe.config
+C:\Users\serydzi\Desktop\popova\bin\roslyn\csi.rsp
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serydzi\Desktop\popova\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.AppContext.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Console.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.IO.Compression.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Net.Http.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Net.Sockets.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.ValueTuple.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Xml.XPath.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\serydzi\Desktop\popova\bin\roslyn\vbc.exe
+C:\Users\serydzi\Desktop\popova\bin\roslyn\vbc.exe.config
+C:\Users\serydzi\Desktop\popova\bin\roslyn\vbc.rsp
+C:\Users\serydzi\Desktop\popova\bin\roslyn\VBCSCompiler.exe
+C:\Users\serydzi\Desktop\popova\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serydzi\Desktop\popova\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serydzi\Desktop\popova\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serydzi\Desktop\popova\obj\Debug\popova.csproj.AssemblyReference.cache
+C:\Users\serydzi\Desktop\popova\obj\Debug\popova.csproj.CoreCompileInputs.cache
+C:\Users\serydzi\Desktop\popova\obj\Debug\popova.csproj.CopyComplete
+C:\Users\serydzi\Desktop\popova\obj\Debug\popova.dll
+C:\Users\serydzi\Desktop\popova\obj\Debug\popova.pdb
+C:\Users\tonyk\Desktop\popova\bin\popova.dll.config
+C:\Users\tonyk\Desktop\popova\bin\popova.dll
+C:\Users\tonyk\Desktop\popova\bin\popova.pdb
+C:\Users\tonyk\Desktop\popova\bin\roslyn\csc.exe
+C:\Users\tonyk\Desktop\popova\bin\roslyn\csc.exe.config
+C:\Users\tonyk\Desktop\popova\bin\roslyn\csc.rsp
+C:\Users\tonyk\Desktop\popova\bin\roslyn\csi.exe
+C:\Users\tonyk\Desktop\popova\bin\roslyn\csi.exe.config
+C:\Users\tonyk\Desktop\popova\bin\roslyn\csi.rsp
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tonyk\Desktop\popova\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.AppContext.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Console.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.IO.Compression.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Net.Http.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.ValueTuple.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tonyk\Desktop\popova\bin\roslyn\vbc.exe
+C:\Users\tonyk\Desktop\popova\bin\roslyn\vbc.exe.config
+C:\Users\tonyk\Desktop\popova\bin\roslyn\vbc.rsp
+C:\Users\tonyk\Desktop\popova\bin\roslyn\VBCSCompiler.exe
+C:\Users\tonyk\Desktop\popova\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tonyk\Desktop\popova\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tonyk\Desktop\popova\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tonyk\Desktop\popova\obj\Debug\popova.csproj.AssemblyReference.cache
+C:\Users\tonyk\Desktop\popova\obj\Debug\popova.csproj.CoreCompileInputs.cache
+C:\Users\tonyk\Desktop\popova\obj\Debug\popova.csproj.CopyComplete
+C:\Users\tonyk\Desktop\popova\obj\Debug\popova.dll
+C:\Users\tonyk\Desktop\popova\obj\Debug\popova.pdb
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\popova.dll.config
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\popova.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\popova.pdb
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\csc.exe
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\csc.exe.config
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\csc.rsp
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\csi.exe
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\csi.exe.config
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\csi.rsp
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.AppContext.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Console.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.IO.Compression.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Net.Http.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Net.Sockets.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.ValueTuple.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Xml.XPath.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\vbc.exe
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\vbc.exe.config
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\vbc.rsp
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\VBCSCompiler.exe
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\serydzi\Desktop\web проекты 2022\popova\obj\Debug\popova.csproj.AssemblyReference.cache
+C:\Users\serydzi\Desktop\web проекты 2022\popova\obj\Debug\popova.csproj.CoreCompileInputs.cache
+C:\Users\serydzi\Desktop\web проекты 2022\popova\obj\Debug\popova.csproj.CopyComplete
+C:\Users\serydzi\Desktop\web проекты 2022\popova\obj\Debug\popova.dll
+C:\Users\serydzi\Desktop\web проекты 2022\popova\obj\Debug\popova.pdb
